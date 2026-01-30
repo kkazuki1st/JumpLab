@@ -1,0 +1,5 @@
+{
+  "name": "JumpLab - 垂直跳び計測",
+  "description": "動画から垂直跳びの高さを精密に計測するアプリケーション。フレームレート調整、コマ送り、基準線ツールを搭載。",
+  "requestFramePermissions": []
+}
